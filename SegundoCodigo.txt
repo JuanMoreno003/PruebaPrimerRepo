@@ -1,2 +1,1 @@
 print("hola mundo");
-print("Esto es para ver si funciona");
